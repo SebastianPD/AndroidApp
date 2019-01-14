@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BreakOutPong</string>
+    <string name="title_activity_again">AgainActivity</string>
+</resources>
